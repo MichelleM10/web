@@ -1,5 +1,6 @@
 body{
     background-image: url("jagode.jpg");
+    /*ovo sluzi za poravnanje slike gore desno*/
     background-position-y: top;
     background-position-x: right;
     background-repeat: no-repeat;
