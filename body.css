@@ -2,4 +2,5 @@ body{
     background-image: url("jagode.jpg");
     background-position-y: top;
     background-position-x: right;
+    background-repeat: no-repeat;
 }
