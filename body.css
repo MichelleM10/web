@@ -19,7 +19,7 @@ p.citat
 }
 p.drugi
 {
-    color: "FireBrick";
+    color: FireBrick;
     text-align: center;
     text-decoration: underline;
 }
