@@ -4,6 +4,7 @@ body{
     background-position-y: top;
     background-position-x: right;
     background-repeat: no-repeat;
+    text-align: justify;
 }
 p{
     font-family: Verdana,Helvetica,sans-serif;
@@ -15,4 +16,14 @@ p.citat
     font-size: 11px;
     border: 1px solid #000;
     background-color: #ffffcc;
+}
+p.drugi
+{
+    text-color: "firebrick";
+    text-align: center;
+    text-decorate: underline;
+}
+p.treci
+{
+    text-align: right;
 }
