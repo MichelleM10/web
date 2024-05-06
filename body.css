@@ -72,3 +72,11 @@ ul, li{
     border-left-style: solid;
     boder-left-color: blue;
 }
+ul li a:hover{
+    text-decoration: none;
+    border-left-color: #ccf;
+}
+ul ul li a:hover{
+    text-decoration: none;
+    border-left-color: #ccf;
+}
