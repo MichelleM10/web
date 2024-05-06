@@ -54,6 +54,8 @@ ul li a, ul li a:visited{
     padding: 2px 0px 2px 5px;
     width: 100px;
     border-left-width: 6px;
+    border-left-style: solid;
+    boder-left-color: blue;
 }
 ul ul li a, ul ul li a:visited{
     display: block;
@@ -62,6 +64,8 @@ ul ul li a, ul ul li a:visited{
     padding: 2px 0px 2px 5px;
     width: 108px;
     border-left-width: 4px;
+    border-left-style: solid;
+    boder-left-color: blue;
 }
 ul, li{
     list-style: none;
@@ -69,8 +73,7 @@ ul, li{
     padding: 0px;  
     color: blue;
     text-style: bold;
-    border-left-style: solid;
-    boder-left-color: blue;
+    
 }
 ul li a:hover{
     text-decoration: none;
